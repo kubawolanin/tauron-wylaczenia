@@ -1,6 +1,6 @@
 # Tauron outages
 
-Git scraping outages from Tauron.
+Git scraping power outages from Tauron in Kraków area.
 
 [More details](https://www.kubawolanin.com/power-outages-notifications/) on where the data is coming from.
 
