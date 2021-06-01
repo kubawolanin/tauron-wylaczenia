@@ -6,6 +6,6 @@ Git scraping outages from Tauron.
 
 ## TODO
 
-- [ ] Use geocode.xyz to properly match areas of interest
+- [ ] Use geocode.xyz to properly match areas of interest (and store it in `outages-postprocessed.json`)
 - [ ] Differentiate between current and future outages
 - [ ] Create a map reading data from `outages.json`?
