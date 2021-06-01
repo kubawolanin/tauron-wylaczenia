@@ -1,0 +1,266 @@
+[
+    {
+        "longt": "19.88818",
+        "location": "BRONOWICKA, JABŁONKOWSKA, KRAKOW, PL",
+        "matchtype": "intersection",
+        "confidence": "1",
+        "MentionIndices": "",
+        "latt": "50.082415"
+    },
+    {
+        "longt": "19.888165",
+        "location": "WERNYHORY, JABŁONKOWSKA, KRAKOW, PL",
+        "matchtype": "intersection",
+        "confidence": "0.9",
+        "MentionIndices": "",
+        "latt": "50.08245"
+    },
+    {
+        "longt": "19.98441",
+        "location": "6, NA POKUSIE, KRAKOW, PL",
+        "matchtype": "street",
+        "confidence": "0.9",
+        "MentionIndices": "322",
+        "latt": "49.99375"
+    },
+    {
+        "longt": "19.98269",
+        "location": "50, SZCZAWNICKA ULICA, KRAKOW, PL",
+        "matchtype": "street",
+        "confidence": "0.9",
+        "MentionIndices": "331",
+        "latt": "49.99679"
+    },
+    {
+        "longt": "19.9247",
+        "location": "52, KRAKOW, KRAKOW, PL",
+        "matchtype": "street",
+        "confidence": "0.9",
+        "MentionIndices": "",
+        "latt": "50.0764"
+    },
+    {
+        "longt": "19.98434",
+        "location": "NA POKUSIE, ORSZAŃSKA, KRAKÓW, PL",
+        "matchtype": "intersection",
+        "confidence": "0.9",
+        "MentionIndices": "322",
+        "latt": "49.994375"
+    },
+    {
+        "longt": "19.889365",
+        "location": "BRONOWICKA, KRAKOW, KRAKOW, PL",
+        "matchtype": "intersection",
+        "confidence": "0.9",
+        "MentionIndices": "",
+        "latt": "50.08219"
+    },
+    {
+        "longt": "19.8902",
+        "location": "19, WERNYHORY ULICA, KRAKÓW, PL",
+        "matchtype": "street",
+        "confidence": "0.9",
+        "MentionIndices": "71",
+        "latt": "50.08254"
+    },
+    {
+        "longt": "19.98086",
+        "location": "59, ORSZAŃSKA ULICA, KRAKÓW, PL",
+        "matchtype": "street",
+        "confidence": "0.9",
+        "MentionIndices": "",
+        "latt": "49.99227"
+    },
+    {
+        "longt": "19.888265",
+        "location": "BRONOWICKA, WERNYHORY, KRAKOW, PL",
+        "matchtype": "intersection",
+        "confidence": "0.9",
+        "MentionIndices": "71",
+        "latt": "50.082465"
+    },
+    {
+        "longt": "19.95641",
+        "location": "Krakow,PL",
+        "matchtype": "locality",
+        "confidence": "0.9",
+        "MentionIndices": "",
+        "latt": "50.05158"
+    },
+    {
+        "longt": "19.88932",
+        "location": "BALICKA, BRONOWICKA, KRAKÓW, PL",
+        "matchtype": "intersection",
+        "confidence": "0.9",
+        "MentionIndices": "47,87",
+        "latt": "50.081635"
+    },
+    {
+        "longt": "19.98269",
+        "location": "50, SZCZAWNICKA ULICA, KRAKÓW, PL",
+        "matchtype": "street",
+        "confidence": "0.9",
+        "MentionIndices": "331",
+        "latt": "49.99679"
+    },
+    {
+        "longt": "19.87866",
+        "location": "75, BALICKA ULICA, KRAKÓW, PL",
+        "matchtype": "street",
+        "confidence": "0.9",
+        "MentionIndices": "47",
+        "latt": "50.08224"
+    },
+    {
+        "longt": "19.98091",
+        "location": "59, ORSZAŃSKA ULICA, KRAKOW, PL",
+        "matchtype": "street",
+        "confidence": "0.9",
+        "MentionIndices": "",
+        "latt": "49.99232"
+    },
+    {
+        "longt": "20.0501148609946",
+        "location": "2, PRZEBINDOWSKIEGO, KRAKOW, PL",
+        "matchtype": "street",
+        "confidence": "0.9",
+        "MentionIndices": "363",
+        "latt": "50.0852832620432"
+    },
+    {
+        "longt": "19.98443",
+        "location": "6, NA POKUSIE, KRAKÓW, PL",
+        "matchtype": "street",
+        "confidence": "0.9",
+        "MentionIndices": "322",
+        "latt": "49.99377"
+    },
+    {
+        "longt": "19.88804",
+        "location": "WERNYHORY, BALICKA, KRAKOW, PL",
+        "matchtype": "intersection",
+        "confidence": "0.9",
+        "MentionIndices": "47",
+        "latt": "50.08253"
+    },
+    {
+        "longt": "19.89555",
+        "location": "75, BRONOWICKA ULICA, KRAKOW, PL",
+        "matchtype": "street",
+        "confidence": "0.9",
+        "MentionIndices": "87",
+        "latt": "50.08023"
+    },
+    {
+        "longt": "19.88708",
+        "location": "93, JABŁONKOWSKA, KRAKOW, PL",
+        "matchtype": "street",
+        "confidence": "0.9",
+        "MentionIndices": "",
+        "latt": "50.08112"
+    },
+    {
+        "longt": "19.87869",
+        "location": "75, BALICKA ULICA, KRAKOW, PL",
+        "matchtype": "street",
+        "confidence": "0.9",
+        "MentionIndices": "47",
+        "latt": "50.08227"
+    },
+    {
+        "longt": "19.89025",
+        "location": "19, WERNYHORY ULICA, KRAKOW, PL",
+        "matchtype": "street",
+        "confidence": "0.9",
+        "MentionIndices": "71",
+        "latt": "50.08259"
+    },
+    {
+        "longt": "19.88804",
+        "location": "BALICKA, WERNYHORY, KRAKÓW, PL",
+        "matchtype": "intersection",
+        "confidence": "0.9",
+        "MentionIndices": "47,71",
+        "latt": "50.08253"
+    },
+    {
+        "longt": "19.88932",
+        "location": "BRONOWICKA, BALICKA, KRAKOW, PL",
+        "matchtype": "intersection",
+        "confidence": "0.9",
+        "MentionIndices": "47",
+        "latt": "50.081635"
+    },
+    {
+        "longt": "19.95649",
+        "location": "KRAKÓW,PL",
+        "matchtype": "locality",
+        "confidence": "0.9",
+        "MentionIndices": "",
+        "latt": "50.05166"
+    },
+    {
+        "longt": "19.88799",
+        "location": "JABŁONKOWSKA, BALICKA, KRAKOW, PL",
+        "matchtype": "intersection",
+        "confidence": "0.9",
+        "MentionIndices": "47",
+        "latt": "50.08243"
+    },
+    {
+        "longt": "19.89561",
+        "location": "75, BRONOWICKA ULICA, KRAKÓW, PL",
+        "matchtype": "street",
+        "confidence": "0.9",
+        "MentionIndices": "87",
+        "latt": "50.08029"
+    },
+    {
+        "longt": "19.98437",
+        "location": "NA POKUSIE, ORSZAŃSKA, KRAKOW, PL",
+        "matchtype": "intersection",
+        "confidence": "0.9",
+        "MentionIndices": "322",
+        "latt": "49.994405"
+    },
+    {
+        "longt": "19.888325",
+        "location": "WERNYHORY, BRONOWICKA, KRAKÓW, PL",
+        "matchtype": "intersection",
+        "confidence": "0.9",
+        "MentionIndices": "87",
+        "latt": "50.082525"
+    },
+    {
+        "longt": "19.95646",
+        "location": "Kraków,PL",
+        "matchtype": "locality",
+        "confidence": "0.9",
+        "MentionIndices": "",
+        "latt": "50.05163"
+    },
+    {
+        "longt": "19.95648",
+        "location": "KRAKOW,PL",
+        "matchtype": "locality",
+        "confidence": "0.9",
+        "MentionIndices": "",
+        "latt": "50.05165"
+    },
+    {
+        "longt": "19.88942",
+        "location": "WERNYHORY, KRAKOW, KRAKOW, PL",
+        "matchtype": "intersection",
+        "confidence": "0.9",
+        "MentionIndices": "",
+        "latt": "50.08232"
+    },
+    {
+        "longt": "19.884865",
+        "location": "BALICKA, KRAKOW, KRAKOW, PL",
+        "matchtype": "intersection",
+        "confidence": "0.9",
+        "MentionIndices": "47",
+        "latt": "50.0823"
+    }
+]

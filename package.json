@@ -1,0 +1,16 @@
+{
+  "name": "tauron-wylaczenia",
+  "version": "0.0.1",
+  "description": "Tracking power outages in a certain area",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postprocess": "deno run --unstable --allow-read --allow-net --allow-write postprocess.js outages.json",
+    "start": "yarn postprocess"
+  },
+  "author": "Kuba Wolanin",
+  "license": "ISC",
+  "dependencies": {
+    "@supercharge/promise-pool": "^1.7.0"
+  }
+}
