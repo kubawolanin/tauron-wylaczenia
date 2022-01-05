@@ -1,1 +1,1 @@
-{"CurrentOutagePeriods":[],"FutureOutagePeriods":[{"Message":"Kraków ulica Ślaskiego 28, 28A, 28B, 30, 30A","StartDate":"2022-01-05T08:00:00","EndDate":"2022-01-05T13:00:00","OutageType":1}]}
+{"CurrentOutagePeriods":[{"Message":"Kraków ulica Ślaskiego 28, 28A, 28B, 30, 30A","StartDate":"2022-01-05T08:00:00","EndDate":"2022-01-05T13:00:00","OutageType":1}],"FutureOutagePeriods":[{"Message":"Kraków ul. Żaglowa","StartDate":"2022-01-11T08:00:00","EndDate":"2022-01-11T14:30:00","OutageType":1}]}
